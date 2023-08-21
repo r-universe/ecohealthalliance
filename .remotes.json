@@ -1,5 +1,11 @@
 [
   {
+    "package": "deposits",
+    "url": "https://github.com/ropenscilabs/deposits",
+    "via": ["airtabler"],
+    "from": "airtabler"
+  },
+  {
     "package": "git2r",
     "url": "https://github.com/ropensci/git2r",
     "via": ["relic"],

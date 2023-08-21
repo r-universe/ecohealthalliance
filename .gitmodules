@@ -8,6 +8,10 @@
 [submodule "containerTemplateUtils"]
 	path = containerTemplateUtils
 	url = https://github.com/ecohealthalliance/containerTemplateUtils
+[submodule "deposits"]
+	path = deposits
+	url = https://github.com/ropenscilabs/deposits
+	registered = false
 [submodule "ehallm"]
 	path = ehallm
 	url = https://github.com/ecohealthalliance/ehallm
