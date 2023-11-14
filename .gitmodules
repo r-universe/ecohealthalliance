@@ -2,9 +2,21 @@
 	path = .registry
 	url = https://github.com/ecohealthalliance/ecohealthalliance.r-universe.dev
 	branch = HEAD
+[submodule "devtag"]
+	path = devtag
+	url = https://github.com/moodymudskipper/devtag
+	registered = false
 [submodule "fasterize"]
 	path = fasterize
 	url = hhttps://github.com/ecohealthalliance/fasterize
+[submodule "git2r"]
+	path = git2r
+	url = https://github.com/ropensci/git2r
+	registered = false
+[submodule "minioclient"]
+	path = minioclient
+	url = https://github.com/cboettig/minioclient
+	registered = false
 [submodule "relic"]
 	path = relic
 	url = https://github.com/ecohealthalliance/relic
