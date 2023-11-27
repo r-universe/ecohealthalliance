@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ecohealthalliance/ecohealthalliance.r-universe.dev
 	branch = HEAD
 [submodule "fasterize"]
 	path = fasterize
-	url = https://github.com/ecohealthalliance/fasterize
+	url = hhttps://github.com/ecohealthalliance/fasterize
+[submodule "relic"]
+	path = relic
+	url = https://github.com/ecohealthalliance/relic
