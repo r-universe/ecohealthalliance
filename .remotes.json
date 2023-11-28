@@ -1,11 +1,5 @@
 [
   {
-    "package": "devtag",
-    "url": "https://github.com/moodymudskipper/devtag",
-    "via": ["relic"],
-    "from": "relic"
-  },
-  {
     "package": "git2r",
     "url": "https://github.com/ropensci/git2r",
     "via": ["relic"],

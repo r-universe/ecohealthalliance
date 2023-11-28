@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/ecohealthalliance/ecohealthalliance.r-universe.dev
 	branch = HEAD
-[submodule "devtag"]
-	path = devtag
-	url = https://github.com/moodymudskipper/devtag
-	registered = false
 [submodule "fasterize"]
 	path = fasterize
 	url = hhttps://github.com/ecohealthalliance/fasterize
