@@ -2,9 +2,21 @@
 	path = .registry
 	url = https://github.com/ecohealthalliance/ecohealthalliance.r-universe.dev
 	branch = HEAD
+[submodule "airtabler"]
+	path = airtabler
+	url = https://github.com/ecohealthalliance/airtabler
+[submodule "containerTemplateUtils"]
+	path = containerTemplateUtils
+	url = https://github.com/ecohealthalliance/containerTemplateUtils
+[submodule "ehallm"]
+	path = ehallm
+	url = https://github.com/ecohealthalliance/ehallm
+[submodule "ehastyle"]
+	path = ehastyle
+	url = https://github.com/ecohealthalliance/ehastyle
 [submodule "fasterize"]
 	path = fasterize
-	url = hhttps://github.com/ecohealthalliance/fasterize
+	url = https://github.com/ecohealthalliance/fasterize
 [submodule "git2r"]
 	path = git2r
 	url = https://github.com/ropensci/git2r
