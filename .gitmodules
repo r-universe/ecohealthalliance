@@ -5,6 +5,9 @@
 [submodule "airtabler"]
 	path = airtabler
 	url = https://github.com/ecohealthalliance/airtabler
+[submodule "arrow"]
+	path = arrow
+	url = https://github.com/apache/arrow@apache-arrow-14.0.1
 [submodule "containerTemplateUtils"]
 	path = containerTemplateUtils
 	url = https://github.com/ecohealthalliance/containerTemplateUtils
