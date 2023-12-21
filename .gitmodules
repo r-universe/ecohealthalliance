@@ -5,10 +5,6 @@
 [submodule "airtabler"]
 	path = airtabler
 	url = https://github.com/ecohealthalliance/airtabler
-[submodule "arrow"]
-	path = arrow
-	url = https://github.com/apache/arrow
-	branch = apache-arrow-14.0.1
 [submodule "containerTemplateUtils"]
 	path = containerTemplateUtils
 	url = https://github.com/ecohealthalliance/containerTemplateUtils
@@ -16,6 +12,9 @@
 	path = deposits
 	url = https://github.com/ropenscilabs/deposits
 	registered = false
+[submodule "doltr"]
+	path = doltr
+	url = https://github.com/ecohealthalliance/doltr
 [submodule "ehallm"]
 	path = ehallm
 	url = https://github.com/ecohealthalliance/ehallm
