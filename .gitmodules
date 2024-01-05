@@ -2,8 +2,8 @@
 	path = .registry
 	url = https://github.com/ecohealthalliance/ecohealthalliance.r-universe.dev
 	branch = HEAD
-[submodule "Rpostgres"]
-	path = Rpostgres
+[submodule "RPostgres"]
+	path = RPostgres
 	url = https://github.com/ecohealthalliance/RPostgres
 	branch = doltgres-compatibility
 [submodule "airtabler"]
