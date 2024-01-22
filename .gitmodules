@@ -32,6 +32,10 @@
 	path = git2r
 	url = https://github.com/ropensci/git2r
 	registered = false
+[submodule "mclustAddonsEHA"]
+	path = mclustAddonsEHA
+	url = https://github.com/ecohealthalliance/mclustAddonsEHA
+	branch = working
 [submodule "minioclient"]
 	path = minioclient
 	url = https://github.com/cboettig/minioclient
