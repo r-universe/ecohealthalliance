@@ -40,6 +40,10 @@
 	path = minioclient
 	url = https://github.com/cboettig/minioclient
 	registered = false
+[submodule "ohcleandat"]
+	path = ohcleandat
+	url = https://github.com/ecohealthalliance/ohcleandat
+	branch = main
 [submodule "relic"]
 	path = relic
 	url = https://github.com/ecohealthalliance/relic
