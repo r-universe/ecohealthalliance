@@ -1,5 +1,11 @@
 [
   {
+    "package": "containerTemplateUtils",
+    "url": "https://github.com/ecohealthalliance/containerTemplateUtils",
+    "via": ["ohcleandat"],
+    "from": "ohcleandat"
+  },
+  {
     "package": "deposits",
     "url": "https://github.com/ropenscilabs/deposits",
     "via": ["airtabler"],
@@ -12,9 +18,33 @@
     "from": "relic"
   },
   {
+    "package": "leafem",
+    "url": "https://github.com/r-spatial/leafem",
+    "via": ["ohcleandat", "ruODK"],
+    "from": "ohcleandat"
+  },
+  {
+    "package": "mapview",
+    "url": "https://github.com/r-spatial/mapview",
+    "via": ["ohcleandat", "ruODK"],
+    "from": "ohcleandat"
+  },
+  {
     "package": "minioclient",
     "url": "https://github.com/cboettig/minioclient",
     "via": ["relic"],
     "from": "relic"
+  },
+  {
+    "package": "rdrop2",
+    "url": "https://github.com/fcampelo/rdrop2",
+    "via": ["ohcleandat"],
+    "from": "ohcleandat"
+  },
+  {
+    "package": "ruODK",
+    "url": "https://github.com/ropensci/ruODK",
+    "via": ["ohcleandat"],
+    "from": "ohcleandat"
   }
 ]
