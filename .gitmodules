@@ -25,9 +25,6 @@
 [submodule "ehastyle"]
 	path = ehastyle
 	url = https://github.com/ecohealthalliance/ehastyle
-[submodule "fasterize"]
-	path = fasterize
-	url = https://github.com/ecohealthalliance/fasterize
 [submodule "git2r"]
 	path = git2r
 	url = https://github.com/ropensci/git2r
