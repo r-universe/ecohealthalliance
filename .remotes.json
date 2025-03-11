@@ -1,7 +1,7 @@
 [
   {
     "package": "containerTemplateUtils",
-    "url": "https://github.com/ecohealthalliance/containerTemplateUtils",
+    "url": "https://github.com/one-health-research-consulting/containerTemplateUtils",
     "via": ["ohcleandat"],
     "from": "ohcleandat"
   },
